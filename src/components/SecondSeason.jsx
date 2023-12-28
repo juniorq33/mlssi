@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function SecondSeason () {
   return (
-    <div class="overflow-auto shadow-md sm:rounded-lg">
-        <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
+    <div class="overflow-x-auto shadow-md sm:rounded-lg">
+        <table class="w-full text-sm text-center rtl:text-right text-gray-500 dark:text-gray-400">
             <caption class="p-5 text-lg font-semibold text-left rtl:text-right text-gray-900 bg-white dark:text-white dark:bg-gray-800">
                 2024
                 <p class="mt-1 text-sm font-normal text-gray-500 dark:text-gray-400">Second Season</p>
