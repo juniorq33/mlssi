@@ -4,7 +4,7 @@ import SecondSeason from './SecondSeason'
 
 export default function Stats () {
   return (
-    <div class="flex flex-col gap-4">
+    <div class="flex flex-col gap-6">
         <div>
             <SecondSeason></SecondSeason>
         </div>

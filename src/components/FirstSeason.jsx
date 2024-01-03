@@ -3,12 +3,12 @@ import React from 'react'
 export default function FirstSeason () {
   return (
     <div class="overflow-x-auto shadow-md sm:rounded-lg">
-        <table class="w-full text-sm text-center rtl:text-right text-gray-500 dark:text-gray-400">
-            <caption class="p-5 text-lg font-semibold text-left rtl:text-right text-gray-900 bg-white dark:text-white dark:bg-gray-800">
+        <table class="w-full text-sm text-center rtl:text-right">
+            <caption class="p-5 text-xl font-semibold text-left rtl:text-right bg-white">
                 2023
                 <p class="mt-1 text-sm font-normal text-gray-500 dark:text-gray-400">First Season</p>
             </caption>
-            <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+            <thead class="text-xs uppercase bg-gray-50">
                 <tr>
                     <th scope="col" class="px-6 py-3">
                         Competition
@@ -37,8 +37,8 @@ export default function FirstSeason () {
                 </tr>
             </thead>
             <tbody>
-                <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                <tr class="bg-white">
+                    <th scope="row" class="px-6 py-4 font-medium text-pink-600 whitespace-nowrap">
                         Leagues Cup
                     </th>
                     <td class="px-6 py-4">
@@ -63,8 +63,8 @@ export default function FirstSeason () {
                         410
                     </td>
                 </tr>
-                <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                <tr class="bg-white">
+                    <th scope="row" class="px-6 py-4 font-medium text-pink-600 whitespace-nowrap">
                         Open Cup
                     </th>
                     <td class="px-6 py-4">
@@ -89,8 +89,8 @@ export default function FirstSeason () {
                         85
                     </td>
                 </tr>
-                <tr class="bg-white dark:bg-gray-800">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                <tr class="bg-white">
+                    <th scope="row" class="px-6 py-4 font-medium text-pink-600 whitespace-nowrap">
                         MLS
                     </th>
                     <td class="px-6 py-4">
@@ -115,8 +115,8 @@ export default function FirstSeason () {
                         298
                     </td>
                 </tr>
-                <tr class="bg-white dark:bg-gray-800">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                <tr class="bg-white">
+                    <th scope="row" class="px-6 py-4 font-medium text-pink-600 whitespace-nowrap">
                         Argentina - CONMEBOL World Cup Qualifiers
                     </th>
                     <td class="px-6 py-4">

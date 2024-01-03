@@ -4,11 +4,11 @@ export default function SecondSeason () {
   return (
     <div class="overflow-x-auto shadow-md sm:rounded-lg">
         <table class="w-full text-sm text-center rtl:text-right">
-            <caption class="p-5 text-lg font-semibold text-left rtl:text-right text-gray-900 bg-white">
+            <caption class="p-5 text-xl font-semibold text-left rtl:text-right text-gray-900 bg-white">
                 2024
                 <p class="mt-1 text-sm font-normal text-gray-500 dark:text-gray-400">Second Season</p>
             </caption>
-            <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:text-gray-400">
+            <thead class="text-xs uppercase bg-gray-50">
                 <tr>
                     <th scope="col" class="px-6 py-3">
                         Competition
@@ -38,7 +38,7 @@ export default function SecondSeason () {
             </thead>
             <tbody>
                 <tr class="bg-white">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+                    <th scope="row" class="px-6 py-4 font-medium text-pink-600 whitespace-nowrap">
                         Pre-Season
                     </th>
                     <td class="px-6 py-4">
@@ -64,7 +64,7 @@ export default function SecondSeason () {
                     </td>
                 </tr>
                 <tr class="bg-white">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+                    <th scope="row" class="px-6 py-4 font-medium text-pink-600 whitespace-nowrap">
                         MLS
                     </th>
                     <td class="px-6 py-4">
@@ -90,7 +90,7 @@ export default function SecondSeason () {
                     </td>
                 </tr>
                 <tr class="bg-white">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+                    <th scope="row" class="px-6 py-4 font-medium text-pink-600 whitespace-nowrap">
                         CONCACAF Champions Cup
                     </th>
                     <td class="px-6 py-4">
@@ -116,7 +116,7 @@ export default function SecondSeason () {
                     </td>
                 </tr>                
                 <tr class="bg-white">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+                    <th scope="row" class="px-6 py-4 font-medium text-pink-600 whitespace-nowrap">
                         Leagues Cup
                     </th>
                     <td class="px-6 py-4">
@@ -142,7 +142,7 @@ export default function SecondSeason () {
                     </td>
                 </tr>
                 <tr class="bg-white">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+                    <th scope="row" class="px-6 py-4 font-medium text-pink-600 whitespace-nowrap">
                         Argentina - Copa America
                     </th>
                     <td class="px-6 py-4">
@@ -168,7 +168,7 @@ export default function SecondSeason () {
                     </td>
                 </tr>
                 <tr class="bg-white">
-                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+                    <th scope="row" class="px-6 py-4 font-medium text-pink-600 whitespace-nowrap">
                         Argentina - CONMEBOL World Cup Qualifiers
                     </th>
                     <td class="px-6 py-4">
