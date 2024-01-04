@@ -3,7 +3,7 @@ import GoalCard from './GoalCard'
 
 export default function Goals () {
   return (
-    <div class="flex flex-wrap gap-4 font-mono text-white text-sm font-bold leading-6 rounded-lg">
+    <div class="flex flex-wrap gap-4 justify-center font-mono text-white text-sm font-bold leading-6 rounded-lg">
       <GoalCard team={"New York Red Bulls"} competition={"MLS"} date={"Saturday, August 26th 2023"} instagramLink={"https://www.instagram.com/reel/CwbgoQJsi46/?igsh=MXczanAxaWdrYWFs"}></GoalCard>
       <GoalCard team={"Nashville SC"} competition={"Leagues Cup - Final"} date={"Saturday, August 19th 2023"} instagramLink={"https://www.instagram.com/reel/CwJgoGHMX3_/?igsh=aTFzcDFtYzJpdDE3"}></GoalCard>
       <GoalCard team={"Philadelphia Union"} competition={"Leagues Cup - Semi-final"} date={"Tuesday, August 15th 2023"} instagramLink={"https://www.instagram.com/reel/Cv--9i3ue8F/?igsh=MWFlano5NHM0M3E2OA=="}></GoalCard>

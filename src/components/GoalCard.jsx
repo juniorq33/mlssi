@@ -5,7 +5,7 @@ import { faXTwitter } from '@fortawesome/free-brands-svg-icons'
 
 export default function GoalCard ({team, competition, date, instagramLink}) {
   return (
-    <div class="relative flex w-96 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
+    <div class="relative flex w-96 md:w-80 lg:w-64 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
       <div class="p-6 text-center">
         <h4 class="mb-2 block font-sans text-2xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
           {team}
