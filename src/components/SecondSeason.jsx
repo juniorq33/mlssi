@@ -42,7 +42,7 @@ export default function SecondSeason () {
                         Pre-Season
                     </th>
                     <td class="px-6 py-4">
-                        0
+                        1
                     </td>
                     <td class="px-6 py-4">
                         0
