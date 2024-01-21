@@ -1,0 +1,319 @@
+{
+    "matches":[
+
+       {
+            "competition": "Pre-season",
+            "homeTeam": "El Salvador",
+            "awayTeam": "Inter Miami FC",
+            "result": "0-0",
+            "stadium": "Estadio Cuscatlán, El Salvador",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":"../components/assets/mls/MIA.png",
+            "home": false,
+            "date":"1/19/2024",
+            "time": "8:00 PM"
+        },
+        {
+            "competition": "Pre-season",
+            "homeTeam": "FC Dallas",
+            "awayTeam": "Inter Miami FC",
+            "result": "",
+            "stadium": "Cotton Bowl Stadium, Dallas TX",
+            "goals": "",
+            "homeLogo":"../components/assets/mls/DAL.png",
+            "awayLogo":"../components/assets/mls/MIA.png",
+            "home": false,
+            "date":"1/22/2024",
+            "time": "8:00 PM"
+        },
+        {
+            "competition": "Pre-season",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":"",
+            "home": false
+        },
+        {
+            "competition": "Pre-season",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":"",
+            "home": false
+        },
+        {
+            "competition": "Pre-season",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":"",
+            "home": false
+        },
+        {
+            "competition": "Pre-season",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":"",
+            "home": false
+        },
+        {
+            "competition": "Pre-season",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":"",
+            "home": true
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        },
+        {
+            "competition": "",
+            "homeTeam": "",
+            "awayTeam": "",
+            "result": "",
+            "stadium": "",
+            "goals": "",
+            "homeLogo":"",
+            "awayLogo":""
+        }
+        
+
+        
+    ]
+}
