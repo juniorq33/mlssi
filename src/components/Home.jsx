@@ -2,11 +2,39 @@ import React from 'react'
 import { Timeline } from 'react-twitter-widgets'
 import MatchCard from './MatchCard'
 
+
 export default function Home () {
+
+  var schedule24 = require('./files/schedule2024.json');
+
+  let nextGame;
+  let lastGame;
+  for (let index = 0; index < schedule24.length; index++) {
+
+    const gameInfo = schedule24[index];
+
+    if(gameInfo.result.length == 0)
+    {
+        nextGame = gameInfo;
+        lastGame = schedule24[index - 1];
+        break;
+    }
+  }
+
+  // Next Game Info
+  const isAtHome = nextGame.home ? 'home.png' : 'away.png';
+  const competition = nextGame.competition;
+  const homeTeamLogo = nextGame.homeLogo;
+  const awayTeamLogo = nextGame.awayLogo;
+  const stadium = nextGame.stadium;
+  const date = nextGame.date + ' ' + nextGame.time;
+  
+
+
   return (
     <div class="flex flex-col gap-8">
         <div>
-            <MatchCard assetHA={'home.png'} competition={"MLS"} homeTeam={'MIA.png'} awayTeam={'MIA.png'} goalsHome={"3"} goalsAway={"2"} stadium={"Cotton Bowl Dallas, TX"} date={"1/22/2024 8:00 PM"} goalsSummary={"Messi 10' 15' 18' 19' 30'"}></MatchCard>
+            <MatchCard assetHA={isAtHome} competition={competition} homeTeam={homeTeamLogo} awayTeam={awayTeamLogo} goalsHome={"0"} goalsAway={"0"} stadium={stadium} date={date} goalsSummary={""}></MatchCard>
         </div>
         <div>
             <Timeline
