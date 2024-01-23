@@ -25,7 +25,9 @@ export default function Home () {
   const isAtHome = nextGame.home ? 'home.png' : 'away.png';
   const competition = nextGame.competition;
   const homeTeamLogo = nextGame.homeLogo;
+  const homeTeamName = nextGame.homeTeam;
   const awayTeamLogo = nextGame.awayLogo;
+  const awayTeamName = nextGame.awayTeam;
   const stadium = nextGame.stadium;
   const date = nextGame.date + ' ' + nextGame.time;
   
@@ -34,7 +36,7 @@ export default function Home () {
   return (
     <div class="flex flex-col gap-8">
         <div>
-            <MatchCard assetHA={isAtHome} competition={competition} homeTeam={homeTeamLogo} awayTeam={awayTeamLogo} goalsHome={"0"} goalsAway={"0"} stadium={stadium} date={date} goalsSummary={""}></MatchCard>
+            <MatchCard assetHA={isAtHome} competition={competition} homeTeam={homeTeamLogo} homeTeamName={homeTeamName} awayTeam={awayTeamLogo} awayTeamName={awayTeamName} goalsHome={"0"} goalsAway={"0"} stadium={stadium} date={date} goalsSummary={""}></MatchCard>
         </div>
         <div>
             <Timeline
