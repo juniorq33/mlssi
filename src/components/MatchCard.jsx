@@ -8,7 +8,7 @@ export default function MatchCard ({assetHA, competition, homeTeam, homeTeamName
             <p class="font-sans text-2xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">{competition}</p>
         </div>
         <div class="flex flex-row">
-            <div class="flex flex-col items-center">
+            <div class="flex flex-col items-center gap-2">
                 <img src={require(`../components/assets/mls/${homeTeam}`)} class="object-contain h-28 w-48"></img>
                 <h1 class="font-sans text-xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">{homeTeamName}</h1>
             </div>
@@ -17,7 +17,7 @@ export default function MatchCard ({assetHA, competition, homeTeam, homeTeamName
                 <div class="text-2xl">-</div>
                 <h1 class="rounded-lg shadow-2xl font-sans text-2xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">{goalsAway}</h1>
             </div>
-            <div class="flex flex-col items-center">
+            <div class="flex flex-col items-center gap-2">
                 <img src={require(`../components/assets/mls/${awayTeam}`)} class="object-contain h-28 w-48"></img>
                 <p class="font-sans text-xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">{awayTeamName}</p>
             </div>
