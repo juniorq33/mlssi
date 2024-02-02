@@ -42,7 +42,7 @@
         "competition": "Pre-season",
         "homeTeam": "Al NAssr",
         "awayTeam": "Inter Miami FC",
-        "result": "",
+        "result": "6-0",
         "stadium": "Kingdom Arena, Riyadh, Saudi Arabia",
         "goals": "",
         "homeLogo": "al-nassr.png",
@@ -58,9 +58,11 @@
         "result": "",
         "stadium": "Hong Kong Stadium",
         "goals": "",
-        "homeLogo": "al-hilal.png",
+        "homeLogo": "hh.png",
         "awayLogo": "MIA.png",
-        "home": false
+        "home": false,
+        "date":"2/4/2024",
+        "time": "3:00 AM ET"
     },
     {
         "competition": "Pre-season",
@@ -71,7 +73,9 @@
         "goals": "",
         "homeLogo": "vissel-kobe.png",
         "awayLogo": "MIA.png",
-        "home": false
+        "home": false,
+        "date":"2/7/2024",
+        "time": "6:00 AM ET"
     },
     {
         "competition": "Pre-season",
@@ -82,47 +86,61 @@
         "goals": "",
         "homeLogo":"MIA.png",
         "awayLogo":"newells-old-boys.png",
-        "home": true
+        "home": true,
+        "date":"2/15/2024",
+        "time": "8:00 PM ET"
     },
     {
-        "competition": "",
+        "competition": "MLS",
+        "homeTeam": "Inter Miami FC",
+        "awayTeam": "Salt Lake",
+        "result": "",
+        "stadium": "DRV PNK Stadium Fort Lauderdale, FL",
+        "goals": "",
+        "homeLogo":"MIA.png",
+        "awayLogo":"RSL.png",
+        "home": true,
+        "date":"2/21/2024",
+        "time": "8:00 PM ET"
+    },
+    {
+        "competition": "MLS",
+        "homeTeam": "LA Galaxy",
+        "awayTeam": "Inter Miami FC",
+        "result": "",
+        "stadium": "Dignity Health Sports Park, LA",
+        "goals": "",
+        "homeLogo":"LA.png",
+        "awayLogo":"MIA.png",
+        "home": false,
+        "date":"2/25/2024",
+        "time": "8:00 PM ET"
+    },
+    {
+        "competition": "MLS",
+        "homeTeam": "Inter Miami FC",
+        "awayTeam": "Orlando City",
+        "result": "",
+        "stadium": "DRV PNK Stadium Fort Lauderdale, FL",
+        "goals": "",
+        "homeLogo":"MIA.png",
+        "awayLogo":"ORL.png",
+        "home": true,
+        "date":"3/2/2024",
+        "time": "4:30 PM ET"
+    },
+    {
+        "competition": "Concacaf Champions Cup",
         "homeTeam": "",
-        "awayTeam": "",
+        "awayTeam": "Inter Miami FC",
         "result": "",
         "stadium": "",
         "goals": "",
         "homeLogo":"",
-        "awayLogo":""
-    },
-    {
-        "competition": "",
-        "homeTeam": "",
-        "awayTeam": "",
-        "result": "",
-        "stadium": "",
-        "goals": "",
-        "homeLogo":"",
-        "awayLogo":""
-    },
-    {
-        "competition": "",
-        "homeTeam": "",
-        "awayTeam": "",
-        "result": "",
-        "stadium": "",
-        "goals": "",
-        "homeLogo":"",
-        "awayLogo":""
-    },
-    {
-        "competition": "",
-        "homeTeam": "",
-        "awayTeam": "",
-        "result": "",
-        "stadium": "",
-        "goals": "",
-        "homeLogo":"",
-        "awayLogo":""
+        "awayLogo":"MIA.png",
+        "home": true,
+        "date":"3/7/2024",
+        "time": "9:00 PM ET"
     },
     {
         "competition": "",

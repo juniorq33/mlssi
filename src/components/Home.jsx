@@ -46,7 +46,7 @@ export default function Home () {
                 screenName: 'Inter Miami FC'
             }}
             options={{
-                height: '600'
+                height: '700'
             }}
             />
         </div>   
