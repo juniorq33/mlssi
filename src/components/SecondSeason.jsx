@@ -68,25 +68,25 @@ export default function SecondSeason () {
                         MLS
                     </th>
                     <td class="px-6 py-4">
-                        0
+                        1
                     </td>
                     <td class="px-6 py-4">
                         0
                     </td>
                     <td class="px-6 py-4">
-                        0
+                        1
                     </td>
                     <td class="px-6 py-4">
-                        0
+                        1
                     </td>
                     <td class="px-6 py-4">
-                        0
+                        4
                     </td>
                     <td class="px-6 py-4">
-                        0
+                        1
                     </td>
                     <td class="px-6 py-4">
-                        0
+                        89
                     </td>
                 </tr>
                 <tr class="bg-white">

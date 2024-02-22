@@ -81,7 +81,7 @@
         "competition": "Pre-season",
         "homeTeam": "Inter Miami FC",
         "awayTeam": "Newell's",
-        "result": "",
+        "result": "1-1",
         "stadium": "DRV PNK Stadium Fort Lauderdale, FL",
         "goals": "",
         "homeLogo":"MIA.png",
@@ -94,9 +94,9 @@
         "competition": "MLS",
         "homeTeam": "Inter Miami FC",
         "awayTeam": "Salt Lake",
-        "result": "",
+        "result": "2-0",
         "stadium": "DRV PNK Stadium Fort Lauderdale, FL",
-        "goals": "",
+        "goals": "Taylor, Gomez",
         "homeLogo":"MIA.png",
         "awayLogo":"RSL.png",
         "home": true,
@@ -114,7 +114,7 @@
         "awayLogo":"MIA.png",
         "home": false,
         "date":"2/25/2024",
-        "time": "8:00 PM ET"
+        "time": "8:30 PM ET"
     },
     {
         "competition": "MLS",
