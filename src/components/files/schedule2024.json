@@ -107,14 +107,14 @@
         "competition": "MLS",
         "homeTeam": "LA Galaxy",
         "awayTeam": "Inter Miami FC",
-        "result": "",
+        "result": "1-1",
         "stadium": "Dignity Health Sports Park, LA",
-        "goals": "",
+        "goals": "Messi",
         "homeLogo":"LA.png",
         "awayLogo":"MIA.png",
         "home": false,
         "date":"2/25/2024",
-        "time": "8:30 PM ET"
+        "time": "9:00 PM ET"
     },
     {
         "competition": "MLS",
@@ -143,24 +143,30 @@
         "time": "9:00 PM ET"
     },
     {
-        "competition": "",
-        "homeTeam": "",
-        "awayTeam": "",
+        "competition": "MLS",
+        "homeTeam": "Inter Miami FC",
+        "awayTeam": "CF Montreal",
         "result": "",
-        "stadium": "",
+        "stadium": "DRV PNK Stadium Fort Lauderdale, FL",
         "goals": "",
-        "homeLogo":"",
-        "awayLogo":""
+        "homeLogo":"MIA.png",
+        "awayLogo":"MON.png",
+        "home": true,
+        "date":"3/10/2024",
+        "time": "5:00 PM ET"
     },
     {
-        "competition": "",
-        "homeTeam": "",
-        "awayTeam": "",
+        "competition": "MLS",
+        "homeTeam": "DC United",
+        "awayTeam": "Inter Miami FC",
         "result": "",
-        "stadium": "",
+        "stadium": "Audi Field Washington, DC",
         "goals": "",
-        "homeLogo":"",
-        "awayLogo":""
+        "homeLogo":"DCU.png",
+        "awayLogo":"MIA.png",
+        "home": false,
+        "date":"3/16/2024",
+        "time": "2:00 PM ET"
     },
     {
         "competition": "",
