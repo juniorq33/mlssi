@@ -68,25 +68,25 @@ export default function SecondSeason () {
                         MLS
                     </th>
                     <td class="px-6 py-4">
-                        2
+                        3
+                    </td>
+                    <td class="px-6 py-4">
+                        3
                     </td>
                     <td class="px-6 py-4">
                         1
                     </td>
                     <td class="px-6 py-4">
-                        1
-                    </td>
-                    <td class="px-6 py-4">
-                        2
+                        4
                     </td>
                     <td class="px-6 py-4">
                         5
                     </td>
                     <td class="px-6 py-4">
-                        2
+                        6
                     </td>
                     <td class="px-6 py-4">
-                        169
+                        227
                     </td>
                 </tr>
                 <tr class="bg-white">
@@ -94,25 +94,25 @@ export default function SecondSeason () {
                         CONCACAF Champions Cup
                     </th>
                     <td class="px-6 py-4">
-                        0
+                        2
                     </td>
                     <td class="px-6 py-4">
-                        0
+                        2
                     </td>
                     <td class="px-6 py-4">
-                        0
+                        1
                     </td>
                     <td class="px-6 py-4">
-                        0
+                        3
                     </td>
                     <td class="px-6 py-4">
-                        0
+                        4
                     </td>
                     <td class="px-6 py-4">
-                        0
+                        3
                     </td>
                     <td class="px-6 py-4">
-                        0
+                        102
                     </td>
                 </tr>                
                 <tr class="bg-white">
